@@ -5,3 +5,5 @@
  * Description: Product board plugin
  */
 
+
+ require 'cpt-product.php';
